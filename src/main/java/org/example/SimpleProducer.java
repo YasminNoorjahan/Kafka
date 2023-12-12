@@ -62,7 +62,6 @@ public class SimpleProducer {
                     Integer.toString(i++), employee1ByteArray));
         }
         //System.out.println("Message sent successfully");
-
         //producer.close();
     }
 }
